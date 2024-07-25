@@ -1,4 +1,5 @@
 package figueiredoisaac.finsoft.models;
+
 import jakarta.persistence.*;
 import lombok.Data;
 
